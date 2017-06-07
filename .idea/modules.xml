@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XProject.iml" filepath="$PROJECT_DIR$/XProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.gson/app.gson.iml" filepath="$PROJECT_DIR$/app.gson/app.gson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.hybrid/app.hybrid.iml" filepath="$PROJECT_DIR$/app.hybrid/app.hybrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.image/app.image.iml" filepath="$PROJECT_DIR$/app.image/app.image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.rxjava/app.rxjava.iml" filepath="$PROJECT_DIR$/app.rxjava/app.rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.view/app.view.iml" filepath="$PROJECT_DIR$/app.view/app.view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson/gson.iml" filepath="$PROJECT_DIR$/gson/gson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-lib/gson-lib.iml" filepath="$PROJECT_DIR$/gson-lib/gson-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.design/lib.design.iml" filepath="$PROJECT_DIR$/lib.design/lib.design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.style/lib.style.iml" filepath="$PROJECT_DIR$/lib.style/lib.style.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processor/processor.iml" filepath="$PROJECT_DIR$/processor/processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processor-lib/processor-lib.iml" filepath="$PROJECT_DIR$/processor-lib/processor-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava-source/rxjava-source.iml" filepath="$PROJECT_DIR$/rxjava-source/rxjava-source.iml" />
+    </modules>
+  </component>
+</project>

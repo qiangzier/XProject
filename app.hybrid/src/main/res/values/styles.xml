@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="HybridAppTheme" parent="AppTheme.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorAccent</item>
+    </style>
+
+    <style name="HybridAppBarOverlay" parent="AppTheme.AppBarOverlay">
+        <item name="android:background">@color/color_20D152</item>
+    </style>
+
+</resources>

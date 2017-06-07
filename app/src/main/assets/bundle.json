@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "image",
+      "pkg": "com.hzq.app.image"
+    },
+    {
+      "uri": "hybrid",
+      "pkg": "com.hzq.app.hybrid"
+    },
+    {
+      "uri": "gson",
+      "pkg": "com.hzq.app.gson"
+    },
+    {
+      "uri": "rxjava",
+      "pkg": "com.hzq.app.rxjava"
+    },
+    {
+      "uri": "lib.style",
+      "pkg": "com.hzq.lib.style",
+      "type":"lib"
+    }
+  ,
+    {
+      "uri": "lib.design",
+      "pkg": "com.hzq.lib.design",
+      "type":"lib"
+    }
+  ]
+}

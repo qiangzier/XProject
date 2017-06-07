@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="ImageAppTheme" parent="AppTheme.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorLight</item>
+    </style>
+
+    <style name="ImageAppBarOverlay" parent="AppTheme.AppBarOverlay">
+        <item name="android:background">@color/colorAccent</item>
+    </style>
+
+</resources>
